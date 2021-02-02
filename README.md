@@ -1,10 +1,35 @@
 
 
-Claoe Louis - VERSION 3
+Claoe Louis - VERSION 4
 
 
-
-The purpose of this file is to complete assignment 3 in SE 441.
-The goal of this assignment is to learn Git.
-Git or Git Hub us a version control repository and should be useful is making life a lot easier, 
-With its use I will be able to protect work from getting destroyed.
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some cows
+Ee i ee i oh
+With a moo-moo here
+And a moo-moo there
+Here a moo, there a moo
+Everywhere a moo-moo
+Old MacDonald had a farm
+Ee i ee i o
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some chicks
+Ee i ee i o
+With a cluck-cluck here
+And a cluck-cluck there
+Here a cluck, there a cluck
+Everywhere a cluck-cluck
+Old MacDonald had a farm
+Ee i ee i o
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some pigs
+Ee i ee i o
+With an oink-oink here
+And an oink-oink there
+Here an oink, there an oink
+Everywhere an oink-oink
+Old MacDonald had a farm
+Ee i ee i o
