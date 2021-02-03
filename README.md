@@ -45,4 +45,3 @@ Everywhere an oink-oink
 Old MacDonald had a farm
 Ee i ee i o
 
-/bin/bash: wq: command not found
