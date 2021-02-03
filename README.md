@@ -11,7 +11,45 @@ It was first published in 1920, more as a song for adults in “Camp and camino 
 
 The actual version of “Itsy Bitsy Spider” was later printed in 1947 by the California Folklore Society in the Western Folklore collection. It appears as a nursery rhyme in 1948 in the American Folk Songs for Children a collection by Mike and Peggy Seeger and in 1955 in Maxwell Slutz Stewart’ book “The Growing Family: A Guide for Parents”.
 
-Claoe Louis - VERSION 4
+Claoe Louis - VERSION 5 
+Twinkle Twinkle Little Star
+
+
+
+
+Twinkle, twinkle, little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+When the blazing sun is gone,
+When he nothing shines upon,
+Then you show your little light,
+Twinkle, twinkle, all the night.
+
+Then the traveller in the dark,
+Thanks you for your tiny spark,
+He could not see which way to go,
+If you did not twinkle so.
+
+In the dark blue sky you keep,
+And often through my curtains peep,
+For you never shut your eye,
+‘Till the sun is in the sky.
+
+As your bright and tiny spark,
+Lights the traveller in the dark.
+Though I know not what you are,
+Twinkle, twinkle, little star.
+
+Twinkle, twinkle, little star.
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+
+Twinkle, twinkle, little star.
+How I wonder what you are.
+How I wonder what you are.
 
 
 Old MacDonald had a farm
@@ -44,4 +82,7 @@ Here an oink, there an oink
 Everywhere an oink-oink
 Old MacDonald had a farm
 Ee i ee i o
+<<<<<<< HEAD
 
+=======
+>>>>>>> hw-d-b
